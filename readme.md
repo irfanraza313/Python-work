@@ -3,7 +3,7 @@
 ## GPT-4 Overview:
 #### GPT-4 (Generative Pretrained Transformer 4) is one of the most advanced AI language models currently available. It's based on the transformer architecture and designed for general-purpose tasks across multiple fields, including text generation, comprehension, creative writing, coding, answering complex queries, and more.
 ![Chat GPT Image](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64148ed756708f9b82464c96_image-of-hand-holding-an-ai-face-looking-at-the-words-chatgpt-openai-p-800.webp)
-[Link to Image](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64148ed756708f9b82464c96_image-of-hand-holding-an-ai-face-looking-at-the-words-chatgpt-openai-p-800.webp)
+<br/>[Link to Image](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64148ed756708f9b82464c96_image-of-hand-holding-an-ai-face-looking-at-the-words-chatgpt-openai-p-800.webp)
 ## Key Features of GPT-4:
 ### 1. Multimodal Capabilities:
 * Text & Visual Understanding: GPT-4 can process not just text but also images, making it suitable for tasks that combine both types of inputs, such as image captioning, visual question answering, and more.
@@ -34,6 +34,18 @@
 7. Science & Engineering: Provides research assistance, helps with code, and generates summaries of complex technical papers.
 ## _Efficiency:_
 ### _GPT-4’s general-purpose nature makes it one of the most efficient models across fields. While it may not outperform specialized models in every niche, its versatility allows it to perform well in almost any task with high proficiency._
+* Example of a code written by GPT:
+Prompt: Write me a python code to say salam to a specific person.
+Output given by GPT: 
+```python
+{
+def say_salam(name):
+    print(f"Salam, {name}!")
 
-### Resources:
-* [Chat GPT](https://chatgpt.com/)
+# Example usage
+person_name = input("Enter the person's name: ")
+say_salam(person_name)
+
+}
+
+# Resources: [Chat GPT](https://chatgpt.com/)
