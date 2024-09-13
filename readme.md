@@ -2,7 +2,7 @@
 ### An AI model that is efficient in almost all fields would be a general-purpose AI model capable of handling a wide variety of tasks across different domains. One of the best examples of such a model in 2024 is GPT-4 by OpenAI.
 ## GPT-4 Overview:
 #### GPT-4 (Generative Pretrained Transformer 4) is one of the most advanced AI language models currently available. It's based on the transformer architecture and designed for general-purpose tasks across multiple fields, including text generation, comprehension, creative writing, coding, answering complex queries, and more.
-![Chat GPT Image](ChatGPT.webp)
+![Chat GPT Image](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64148ed756708f9b82464c96_image-of-hand-holding-an-ai-face-looking-at-the-words-chatgpt-openai-p-800.webp)
 [Link to Image](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64148ed756708f9b82464c96_image-of-hand-holding-an-ai-face-looking-at-the-words-chatgpt-openai-p-800.webp)
 ## Key Features of GPT-4:
 ### 1. Multimodal Capabilities:
